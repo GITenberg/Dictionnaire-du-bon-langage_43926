@@ -1,0 +1,30 @@
+_repo: Dictionnaire-du-bon-langage_43926
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43926-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carpentier, N.-J.
+    alias: Carpentier, Nicolas Joseph
+    birthdate: 1824
+    gutenberg_agent_id: '42480'
+    url: http://www.gutenberg.org/2009/agents/42480
+description: ''
+gutenberg_bookshelf: FR Langues
+gutenberg_issued: '2013-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43926'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'French language -- Terms and phrases'
+- !lcsh 'French language -- Glossaries, vocabularies, etc.'
+title: "Dictionnaire du bon langage\r\nContenant les difficultés de la langue française,\
+  \ les règles et les fautes de prononciation, les locutions vicieuses, les wallonnismes,\
+  \ les flandricismes, etc."
+url: http://www.gutenberg.org/ebooks/43926
