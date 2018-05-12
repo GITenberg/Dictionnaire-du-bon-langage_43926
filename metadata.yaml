@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42480'
     url: http://www.gutenberg.org/2009/agents/42480
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43926#Dictionnaire-du-bon-langage
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2013-10-10'
 gutenberg_type: Text
